@@ -1,6 +1,4 @@
 // Name: Manasse Bosango
-// Date: 04/26/20222
-// Class: CS210
 // Reason: Understand the importance of what a method returns and what a method has as passed parameters (arguments).
 
 import java.util.Scanner;
